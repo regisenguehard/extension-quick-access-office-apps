@@ -1,0 +1,20 @@
+[
+  { "name": "OneDrive", "url": "https://www.office.com/launch/OneDrive/", "icon": "onedrive.png" },
+  { "name": "Teams", "url": "https://teams.microsoft.com/", "icon": "teams.png" },
+  { "name": "To Do", "url": "https://to-do.office.com/tasks/today", "icon": "todo.png" },
+  { "name": "Outlook", "url": "https://outlook.office.com", "icon": "outlook.png" },
+  { "name": "Calendar", "url": "https://outlook.office.com/calendar/", "icon": "calendar.png" },
+  { "name": "Contacts", "url": "https://outlook.office.com/people/", "icon": "contacts.png" },
+  { "name": "OneNote", "url": "https://www.office.com/launch/OneNote/", "icon": "onenote.png" },
+  { "name": "SharePoint", "url": "https://www.office.com/launch/SharePoint/", "icon": "sharepoint.png" },
+  { "name": "Forms", "url": "https://forms.office.com/", "icon": "forms.png" },
+  { "name": "Word", "url": "https://www.office.com/launch/Word/", "icon": "word.png" },
+  { "name": "Excel", "url": "https://www.office.com/launch/Excel/", "icon": "excel.png" },
+  { "name": "PowerPoint", "url": "https://www.office.com/launch/PowerPoint/", "icon": "powerpoint.png" },
+  { "name": "Lists", "url": "https://www.office.com/launch/Lists/", "icon": "lists.png" },
+  { "name": "Power Automate", "url": "https://make.powerautomate.com/", "icon": "powerautomate.png" },
+  { "name": "Visio", "url": "https://www.office.com/launch/Visio/", "icon": "visio.png" },
+  { "name": "Publisher", "url": "https://www.office.com/launch/Publisher/", "icon": "publisher.png" },
+  { "name": "Clipchamp", "url": "https://www.office.com/launch/Clipchamp/", "icon": "clipchamp.png" },
+  { "name": "Sway", "url": "https://sway.cloud.microsoft/", "icon": "sway.png" }
+]

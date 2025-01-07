@@ -1,0 +1,78 @@
+body.quick-access-office-apps__options {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #f0f4ff, #e6eeff);
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+.quick-access-office-apps__options-grid {
+  text-align: center;
+  width: 90%;
+  max-width: 800px;
+  background: white;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  padding: 20px 15px;
+  box-sizing: border-box;
+}
+
+.quick-access-office-apps__options h1 {
+  margin: 0;
+  font-size: 24px;
+  color: #0164b7;
+  padding: 10px 0;
+  text-align: center;
+  font-weight: normal;
+}
+.quick-access-office-apps__options-status {
+  margin-bottom: 20px;
+}
+
+#quick-access-office-apps__options-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 15px;
+}
+
+.quick-access-office-apps__options .option {
+  background: linear-gradient(145deg, #ffffff, #e8e8e8);
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  transition: transform 0.2s, box-shadow 0.2s;
+  background: rgb(172,169,210);
+  background: linear-gradient(45deg, rgb(255 255 255 / 1%) 0%, rgb(154 198 235 / 33%) 35%, rgb(255 255 255 / 1%) 100%);
+}
+.quick-access-office-apps__options .option:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+.quick-access-office-apps__options .option span {
+  display: block;
+  font-size: 0.875rem;
+  margin: 5px 0;
+  color: #555;
+}
+
+.quick-access-office-apps__options .option label {
+  flex: 1;
+  cursor: pointer;
+}
+
+.quick-access-office-apps__options .option input[type="checkbox"] {
+  margin-left: 10px;
+  width: 25px;
+  height: 25px;
+}
+
+.quick-access-office-apps__options span {
+  font-size: 1.2rem;
+  display: inline-block;
+  padding: .4rem 1rem;
+  border-radius: 5px;
+}
