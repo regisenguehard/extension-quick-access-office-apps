@@ -7,7 +7,7 @@ Access your favorite Office 365 applications in one click with **Quick Access Of
 
 # Install
 
-Install this extension from [**Chrome Web Store**]() or [**Microsoft Edge Store**]().
+Install this extension from [**Chrome Web Store**](https://chromewebstore.google.com/detail/quick-access-office-apps/klhgficbeigdebndgcllhangmblmibpb) or [**Microsoft Edge Store**](https://microsoftedge.microsoft.com/addons/detail/quick-access-office-apps/nlbbmcemoiejcomippnljcdmgojgmamm).
 
 
 # Usage
